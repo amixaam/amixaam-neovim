@@ -11,4 +11,6 @@ return {
   -- },
   -- wakatime
   { "wakatime/vim-wakatime", lazy = false },
+  -- Discord presence
+  { "andweeb/presence.nvim", event = "VeryLazy" },
 }
